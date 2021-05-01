@@ -4,4 +4,4 @@
 % because in general our cost functions admit several solutions. This is generally less fast (because the optimization is a gradient-free method)
 % but this method searches for lower minima and gives robust results.
 
-% This code is still being commented to facilitate its use and is expected to be fully ready by the end of April.
+% We are still in the process of making this code accessible, and the full package will be completed soon.
